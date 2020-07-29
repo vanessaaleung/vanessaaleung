@@ -10,7 +10,6 @@
 </p>
 
 <p align="center"> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/vanessaaleung/count.svg" alt="Visitor Count" />
 </p>
 

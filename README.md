@@ -13,7 +13,7 @@
 </p>
 
 - 🎓 Fresh graduate at UC Davis
-- 💻 I’m interested in **Data Science** and **Full-Stack Development**
+- 💻 Data Science and Web Development enthusiast
 - 👯 Looking to collaborate on interesting projects
 - 📫 How to reach me: vjcliang@ucdavis.edu
 - ✨ Check out my portfolio: https://vanessaaleung.github.io/

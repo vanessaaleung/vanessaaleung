@@ -6,7 +6,7 @@
 	<a href="https://www.linkedin.com/in/vanessaaleung/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 </p>
 <p align="center">
-	<img src="https://github.com/vanessaaleung/vanessaaleung/blob/master/banner.png" height="300px">
+	<img src="https://github.com/vanessaaleung/vanessaaleung/blob/master/banner.png">
 </p>
 
 <p align="center"> 

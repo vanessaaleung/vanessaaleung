@@ -15,7 +15,7 @@
 
 - 🎓 Fresh graduate at UC Davis
 - 💻 Data Science and Web Development enthusiast
-- 👯 Open to collaborate on interesting projects
+- 👯 Open to collaborating on interesting projects
 - 📫 Reach me at: vjcliang@ucdavis.edu
 - ✨ Check out my portfolio: https://vanessaaleung.github.io/
 - 📝 and my Medium blog: http://medium.com/@vanessaaleung

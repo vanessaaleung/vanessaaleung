@@ -1,4 +1,4 @@
-### Welcome to my Github page 👋
+### Welcome to my GitHub page 👋
 
 <p align="center">
 	<a href="http://vanessaaleung.github.io/"><img src="http://img.shields.io/badge/GitHub--_.svg?style=social&logo=GitHub" alt="GitHub"></a>&nbsp;&nbsp;&nbsp;
@@ -14,6 +14,7 @@
 </p>
 
 - 💻 Data Science and Web Development enthusiast
-- 📫 Reach me at: vjcliang@ucdavis.edu
+- 📫 Reach me at: vanessa.data.nyc@gmail.com
 - ✨ Check out my portfolio: https://vanessaaleung.github.io/portfolio
 - 📝 and my Medium blog: http://medium.com/@vanessaaleung
+- 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/vanessaaleung/

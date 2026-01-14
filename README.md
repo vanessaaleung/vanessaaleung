@@ -9,9 +9,6 @@
 	<img src="https://github.com/vanessaaleung/vanessaaleung/blob/master/banner.png">
 </p>
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/vanessaaleung/count.svg" alt="Visitor Count" />
-</p>
 
 - 💻 Data Science and Web Development enthusiast
 - 📫 Reach me at: vanessa.data.nyc@gmail.com

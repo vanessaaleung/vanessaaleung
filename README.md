@@ -10,8 +10,7 @@
 </p>
 
 
-- 💻 Data Science and Web Development enthusiast
-- 📫 Reach me at: vanessa.data.sf@gmail.com
+- 📫 Reach me at: vanessa.liang.job@gmail.com
 - ✨ Check out my portfolio: https://vanessaaleung.github.io/portfolio
 - 📝 and my Medium blog: http://medium.com/@vanessaaleung
 - 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/vanessaaleung/
